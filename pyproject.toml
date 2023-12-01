@@ -8,9 +8,9 @@ repository = "https://github.com/mossjacob/pcurvepy"
 license = "MIT"
 
 [tool.poetry.dependencies]
-python
-scipy
-numpy
+python = "*"
+scipy = "*"
+numpy = "*"
 
 
 [build-system]
